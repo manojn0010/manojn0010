@@ -1,11 +1,10 @@
 ## Manoj K N
 Computer Science Undergraduate (2025)  
-Bengaluru, India  
-Aspiring Data Analyst with a strong foundation in statistics and data analysis  
+Bengaluru, Karnataka, India  
 
 ---
 ### About Me
-I am an aspiring data analyst with a strong foundation in statistics and data analysis, focused on building end-to-end analytical workflows from raw data to actionable insights.
+I am an aspiring data analyst with a strong foundation in statistical modelling, visualisation and focused on building end-to-end analytical workflows from raw data to actionable insights.
 
 My work includes:
 - End-to-end data analysis pipelines
@@ -41,7 +40,8 @@ I focus on combining statistical reasoning with clear interpretation of results.
 
 - Built and compared regression, ARIMAX, and ARIMA models  
 - Applied transformations and stationarity checks  
-- Used train-test validation for model selection  
+- Used train-test validation for model selection
+  
 **Key Insight:** Time series structure outperforms external variables — ARIMA delivers significantly better forecasts than models with economic drivers  
 **Repository:** https://github.com/manojn0010/Forecasting-Wind-Energy-Adoption  
 
@@ -52,6 +52,7 @@ I focus on combining statistical reasoning with clear interpretation of results.
 - Designed SQL-based ETL pipeline for transforming raw transactional data  
 - Built KPI views (GMV, AOV, revenue trends, regional performance)  
 - Developed interactive Power BI dashboard with filters and drill-downs  
+
 **Key Insight:** Revenue is highly concentrated in a few regions, while long-tail product categories collectively contribute significant value  
 **Repository:** https://github.com/manojn0010/E-Commerce-Marketplace-Analysis  
 
@@ -62,6 +63,7 @@ I focus on combining statistical reasoning with clear interpretation of results.
 - Built multiple regression specifications with demographic and policy variables  
 - Compared models using statistical metrics  
 - Analysed dynamic effects using lagged growth  
+
 **Key Insight:** Population growth shows strong persistence — past growth significantly influences future trends  
 **Repository:** https://github.com/manojn0010/Demographic-Modelling-of-Population-Dynamics  
 
