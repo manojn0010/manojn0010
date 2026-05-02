@@ -19,7 +19,7 @@ I focus on combining statistical reasoning with clear interpretation of results.
 
 **Languages & Tools**
 - R (modelling, time series, visualisation)
-- SQL (MySQL – querying, transformations, analytical views)
+- SQL (MySQL - querying, transformations, analytical views)
 - Power BI (dashboard design, data modelling, reporting)
 - Excel (data cleaning and analysis)
 
@@ -42,7 +42,7 @@ I focus on combining statistical reasoning with clear interpretation of results.
 - Applied transformations and stationarity checks  
 - Used train-test validation for model selection
   
-**Key Insight:** Time series structure outperforms external variables — ARIMA delivers significantly better forecasts than models with economic drivers  
+**Key Insight:** Time series structure outperforms external variables - ARIMA delivers significantly better forecasts than models with economic drivers  
 **Repository:** https://github.com/manojn0010/Forecasting-Wind-Energy-Adoption  
 
 ---
@@ -64,7 +64,7 @@ I focus on combining statistical reasoning with clear interpretation of results.
 - Compared models using statistical metrics  
 - Analysed dynamic effects using lagged growth  
 
-**Key Insight:** Population growth shows strong persistence — past growth significantly influences future trends  
+**Key Insight:** Population growth shows strong persistence - past growth significantly influences future trends  
 **Repository:** https://github.com/manojn0010/Demographic-Modelling-of-Population-Dynamics  
 
 ---
