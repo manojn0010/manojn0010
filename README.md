@@ -1,10 +1,10 @@
-# Manoj K N
-Computer Science Undergraduate (2025)
-Bengaluru, India
-Aspiring Data Analyst with a strong foundation in statistics and data analysis
+## Manoj K N
+Computer Science Undergraduate (2025)  
+Bengaluru, India  
+Aspiring Data Analyst with a strong foundation in statistics and data analysis  
 
 ---
-## About Me
+### About Me
 I am an aspiring data analyst with a strong foundation in statistics and data analysis, focused on building end-to-end analytical workflows from raw data to actionable insights.
 
 My work includes:
@@ -16,7 +16,7 @@ My work includes:
 I focus on combining statistical reasoning with clear interpretation of results.
 
 ---
-## Tools & Technologies
+### Tools & Technologies
 
 **Languages & Tools**
 * R (modelling, time series, visualisation)
@@ -34,45 +34,45 @@ I focus on combining statistical reasoning with clear interpretation of results.
 * KPI design and dashboard data modelling
 
 ---
-## Featured Projects
+### Featured Projects
 
-### Forecasting Wind Energy Adoption
+#### Forecasting Wind Energy Adoption
 *Focus: Time series modelling and forecast accuracy*
 
 * Built and compared regression, ARIMAX, and ARIMA models
 * Applied transformations and stationarity checks
 * Used train-test validation for model selection
-**Key Insight:**
-Time series structure outperforms external variables — ARIMA delivers significantly better forecasts than models with economic drivers
-**Repository:**
-https://github.com/manojn0010/Forecasting-Wind-Energy-Adoption
+**Key Insight:**  
+Time series structure outperforms external variables — ARIMA delivers significantly better forecasts than models with economic drivers  
+**Repository:**  
+https://github.com/manojn0010/Forecasting-Wind-Energy-Adoption  
 
 ---
-### E-Commerce Marketplace Analysis
-*Focus: End-to-end analytics pipeline, KPI modelling, and dashboarding*
+#### E-Commerce Marketplace Analysis  
+*Focus: End-to-end analytics pipeline, KPI modelling, and dashboarding*  
 
 * Designed SQL-based ETL pipeline for transforming raw transactional data
 * Built KPI views (GMV, AOV, revenue trends, regional performance)
-* Developed interactive Power BI dashboard with filters and drill-downs
-**Key Insight:**
-Revenue is highly concentrated in a few regions, while long-tail product categories collectively contribute significant value
-**Repository:**
-https://github.com/manojn0010/E-Commerce-Marketplace-Analysis
+* Developed interactive Power BI dashboard with filters and drill-downs  
+**Key Insight:**  
+Revenue is highly concentrated in a few regions, while long-tail product categories collectively contribute significant value  
+**Repository:**    
+https://github.com/manojn0010/E-Commerce-Marketplace-Analysis  
 
 ---
-### Demographic Modelling of Population Dynamics
+#### Demographic Modelling of Population Dynamics
 *Focus: Regression modelling and structural analysis*
 
 * Built multiple regression specifications with demographic and policy variables
 * Compared models using statistical metrics
-* Analysed dynamic effects using lagged growth
-**Key Insight:**
-Population growth shows strong persistence — past growth significantly influences future trends
-**Repository:**
-https://github.com/manojn0010/Demographic-Modelling-of-Population-Dynamics
+* Analysed dynamic effects using lagged growth  
+**Key Insight:**  
+Population growth shows strong persistence — past growth significantly influences future trends  
+**Repository:**  
+https://github.com/manojn0010/Demographic-Modelling-of-Population-Dynamics  
 
 ---
-## Contact
+### Contact
 * GitHub: https://github.com/manojn0010
 * Email: [manojkn2123@gmail.com](mailto:manojkn2123@gmail.com)
 
