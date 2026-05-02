@@ -67,7 +67,7 @@ I focus on combining statistical reasoning with clear interpretation of results.
 
 ---
 ### Contact
-**GitHub:** https://github.com/manojn0010
+**GitHub:** https://github.com/manojn0010  
 **Email:** [manojkn2123@gmail.com](mailto:manojkn2123@gmail.com)
 
 ---
