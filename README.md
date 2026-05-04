@@ -62,7 +62,6 @@ I focus on combining statistical reasoning with clear interpretation of results.
   Forecast Plot
 <p align="center">
 <img src="assets/forecast_plot.png" width="450">
-    Forecast Plot
 </p>
 
 **Key Insight:** Time series structure outperforms external variables - ARIMA delivers significantly better forecasts than models with economic drivers  
