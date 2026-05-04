@@ -1,5 +1,5 @@
 ## Manoj K N
-Computer Science Undergraduate (2025)  
+Computer Science Undergraduate  
 Bengaluru, Karnataka, India  
 
 ---
@@ -10,6 +10,7 @@ My work includes:
 - End-to-end data analysis pipelines
 - Exploratory Data Analysis (EDA)
 - Regression and time series modelling
+- Quantitative Forecasting
 - Dashboard development for business insights
 
 I focus on combining statistical reasoning with clear interpretation of results.
