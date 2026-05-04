@@ -1,9 +1,9 @@
-## Manoj K N
+# Manoj K N
 Computer Science Undergraduate  
 Bengaluru, Karnataka, India  
 
 ---
-### About Me
+## About Me
 I am an aspiring data analyst with a strong foundation in statistical modelling, visualisation and focused on building end-to-end analytical workflows from raw data to actionable insights.
 
 My work includes:
@@ -16,7 +16,7 @@ My work includes:
 I focus on combining statistical reasoning with clear interpretation of results.
 
 ---
-### Tools & Technologies
+## Tools & Technologies
 
 **Languages & Tools**
 - R (modelling, time series, visualisation)
@@ -34,9 +34,9 @@ I focus on combining statistical reasoning with clear interpretation of results.
 - KPI design and dashboard data modelling
 
 ---
-### Featured Projects
+## Featured Projects
 
-#### E-Commerce Marketplace Analysis  
+### E-Commerce Marketplace Analysis  
 *Focus: End-to-end analytics pipeline, KPI modelling, and dashboarding*  
 
 - Designed SQL-based ETL pipeline for transforming raw transactional data  
@@ -52,7 +52,7 @@ I focus on combining statistical reasoning with clear interpretation of results.
 **Repository:** https://github.com/manojn0010/E-Commerce-Marketplace-Analysis  
 
 ---
-#### Forecasting Wind Energy Adoption
+### Forecasting Wind Energy Adoption
 *Focus: Time series modelling and forecast accuracy*
 
 - Built and compared regression, ARIMAX, and ARIMA models  
@@ -68,7 +68,7 @@ I focus on combining statistical reasoning with clear interpretation of results.
 **Repository:** https://github.com/manojn0010/Forecasting-Wind-Energy-Adoption  
 
 ---
-#### Demographic Modelling of Population Dynamics
+### Demographic Modelling of Population Dynamics
 *Focus: Regression modelling and structural analysis*
 
 - Built multiple regression specifications with demographic and policy variables  
@@ -88,9 +88,9 @@ I focus on combining statistical reasoning with clear interpretation of results.
 **Repository:** https://github.com/manojn0010/Demographic-Modelling-of-Population-Dynamics  
 
 ---
-### Contact
+## Contact
 **GitHub:** https://github.com/manojn0010  
 **Email:** [manojkn2123@gmail.com](mailto:manojkn2123@gmail.com)
 
 ---
-Open to entry-level data analyst roles focused on modelling, forecasting, dashboarding, and analytical problem-solving.
+Open to entry-level data analyst roles focused on analytical problem-solving, modelling, forecasting, and dashboarding.
