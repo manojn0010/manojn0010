@@ -63,7 +63,14 @@ I focus on combining statistical reasoning with clear interpretation of results.
 
 - Built multiple regression specifications with demographic and policy variables  
 - Compared models using statistical metrics  
-- Analysed dynamic effects using lagged growth  
+- Analysed dynamic effects using lagged growth
+  
+|model|adj.r.squared|sigma|statistic|
+|---|---|---|---|
+|model1|0.90168|0.25852|190.5394|
+|model2|0.90277|0.25709|288.8392|
+|model3|0.90451|0.25478|196.7654|
+|model4|0.97716|0.11800|653.4687|
 
 **Key Insight:** Population growth shows strong persistence - past growth significantly influences future trends  
 **Repository:** https://github.com/manojn0010/Demographic-Modelling-of-Population-Dynamics  
