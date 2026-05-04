@@ -42,7 +42,12 @@ I focus on combining statistical reasoning with clear interpretation of results.
 - Built and compared regression, ARIMAX, and ARIMA models  
 - Applied transformations and stationarity checks  
 - Used train-test validation for model selection
-  
+
+  Forecast Plot
+<p align="centre">
+<img src="assets/forecast_plot.png" width="650">
+</p>
+
 **Key Insight:** Time series structure outperforms external variables - ARIMA delivers significantly better forecasts than models with economic drivers  
 **Repository:** https://github.com/manojn0010/Forecasting-Wind-Energy-Adoption  
 
@@ -54,6 +59,11 @@ I focus on combining statistical reasoning with clear interpretation of results.
 - Built KPI views (GMV, AOV, revenue trends, regional performance)  
 - Developed interactive Power BI dashboard with filters and drill-downs  
 
+  Performance Dashboard
+<p align="centre">
+<img src="assets/PerformanceDashboard.png" width="650">
+</p>
+
 **Key Insight:** Revenue is highly concentrated in a few regions, while long-tail product categories collectively contribute significant value  
 **Repository:** https://github.com/manojn0010/E-Commerce-Marketplace-Analysis  
 
@@ -64,7 +74,8 @@ I focus on combining statistical reasoning with clear interpretation of results.
 - Built multiple regression specifications with demographic and policy variables  
 - Compared models using statistical metrics  
 - Analysed dynamic effects using lagged growth
-  
+
+  Model Comparison  
 |model|adj.r.squared|sigma|statistic|
 |---|---|---|---|
 |model1|0.90168|0.25852|190.5394|
