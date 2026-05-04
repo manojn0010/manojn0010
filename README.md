@@ -75,7 +75,8 @@ I focus on combining statistical reasoning with clear interpretation of results.
 - Compared models using statistical metrics  
 - Analysed dynamic effects using lagged growth
 
-  Model Comparison  
+  Model Comparison
+   
 |model|adj.r.squared|sigma|statistic|
 |---|---|---|---|
 |model1|0.90168|0.25852|190.5394|
