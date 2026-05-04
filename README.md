@@ -36,22 +36,6 @@ I focus on combining statistical reasoning with clear interpretation of results.
 ---
 ### Featured Projects
 
-#### Forecasting Wind Energy Adoption
-*Focus: Time series modelling and forecast accuracy*
-
-- Built and compared regression, ARIMAX, and ARIMA models  
-- Applied transformations and stationarity checks  
-- Used train-test validation for model selection
-
-  Forecast Plot
-<p align="centre">
-<img src="assets/forecast_plot.png" width="650">
-</p>
-
-**Key Insight:** Time series structure outperforms external variables - ARIMA delivers significantly better forecasts than models with economic drivers  
-**Repository:** https://github.com/manojn0010/Forecasting-Wind-Energy-Adoption  
-
----
 #### E-Commerce Marketplace Analysis  
 *Focus: End-to-end analytics pipeline, KPI modelling, and dashboarding*  
 
@@ -60,12 +44,28 @@ I focus on combining statistical reasoning with clear interpretation of results.
 - Developed interactive Power BI dashboard with filters and drill-downs  
 
   Performance Dashboard
-<p align="centre">
-<img src="assets/PerformanceDashboard.png" width="650">
+<p align="center">
+<img src="assets/PerformanceDashboard.png" Height="550">
 </p>
 
 **Key Insight:** Revenue is highly concentrated in a few regions, while long-tail product categories collectively contribute significant value  
 **Repository:** https://github.com/manojn0010/E-Commerce-Marketplace-Analysis  
+
+---
+#### Forecasting Wind Energy Adoption
+*Focus: Time series modelling and forecast accuracy*
+
+- Built and compared regression, ARIMAX, and ARIMA models  
+- Applied transformations and stationarity checks  
+- Used train-test validation for model selection
+
+  Forecast Plot
+<p align="center">
+<img src="assets/forecast_plot.png" width="450">
+</p>
+
+**Key Insight:** Time series structure outperforms external variables - ARIMA delivers significantly better forecasts than models with economic drivers  
+**Repository:** https://github.com/manojn0010/Forecasting-Wind-Energy-Adoption  
 
 ---
 #### Demographic Modelling of Population Dynamics
