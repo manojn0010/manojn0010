@@ -45,7 +45,7 @@ I focus on combining statistical reasoning with clear interpretation of results.
 
   Performance Dashboard
 <p align="center">
-<img src="assets/PerformanceDashboard.png" Height="550">
+<img src="assets/PerformanceDashboard.png" Height="350">
 </p>
 
 **Key Insight:** Revenue is highly concentrated in a few regions, while long-tail product categories collectively contribute significant value  
@@ -62,6 +62,7 @@ I focus on combining statistical reasoning with clear interpretation of results.
   Forecast Plot
 <p align="center">
 <img src="assets/forecast_plot.png" width="450">
+    Forecast Plot
 </p>
 
 **Key Insight:** Time series structure outperforms external variables - ARIMA delivers significantly better forecasts than models with economic drivers  
